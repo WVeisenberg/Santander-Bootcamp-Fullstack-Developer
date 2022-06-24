@@ -1,2 +1,2 @@
 # Santander Bootcamp Fullstack Developer
-Repositório onde estão localizados todos os arquivos de cursos realizados no Bootcamp Sanander Fullstack Developer de 2022
+Repositório onde estão localizados todos os arquivos de cursos realizados no Bootcamp Santander Fullstack Developer de 2022
