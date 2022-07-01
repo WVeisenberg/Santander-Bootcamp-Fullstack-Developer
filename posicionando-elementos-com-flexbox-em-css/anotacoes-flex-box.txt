@@ -1,0 +1,27 @@
+Atalhos Visual Studio Code:
+
+Para criar múltiplas classes dentro de uma <div> use o atalho
+div.nome-da-classe*(número de itens que deseja criar) e aperte a tecla Tab.
+Exemplo:
+
+div.item*3 + Tab = <div class="item"></div>
+                   <div class="item"></div>
+                   <div class="item"></div>
+
+O atalho acima se aplica para diversas tags, mais um exemplo são as listas:
+<ul>
+	li*5 + TAB     =     <li></li>
+                             <li></li>
+                             <li></li>
+                             <li></li>
+                             <li></li>
+</ul>
+
+
+Flex-direction (direção de escrita do texto):
+
+row (padrão) - direção esquerda para direita;
+row-reverse - direção direita para esquerda;
+column - em coluna de cima para baixo;
+column-reverse - em coluna de baixo para cima;
+
